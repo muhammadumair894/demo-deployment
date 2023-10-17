@@ -1,0 +1,9 @@
+transformers
+poppler-utils
+easyocr==1.7.0   
+pdf2image
+fastapi 
+nest-asyncio 
+pyngrok 
+uvicorn 
+numpy
