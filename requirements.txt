@@ -1,5 +1,5 @@
 transformers
-poppler-utils
+#poppler-utils
 easyocr==1.7.0   
 pdf2image
 fastapi 
